@@ -16,13 +16,11 @@
 
 </div>
 
----
+<br/>
 
-<table>
-<tr>
-<td width="56%" valign="middle">
+<img align="right" src="https://raw.githubusercontent.com/rohitcreates/rohitcreates/main/profile-scene.gif" alt="Animated pixel-art red autumn city street" width="42%" />
 
-> "Somewhere between a good idea and seeing where it goes."
+*“Somewhere between a good idea and seeing where it goes.”*
 
 - 💻 Building things for the web
 - ⚡ JavaScript, React and Next.js
@@ -30,22 +28,15 @@
 - 🇯🇵 Currently practising for **JLPT N4**
 - ☕ Too many ideas, not enough open tabs
 
-</td>
-<td width="44%" align="center" valign="middle">
+<br clear="right"/>
 
-<img src="https://raw.githubusercontent.com/rohitcreates/rohitcreates/main/profile-scene.gif" alt="Animated pixel-art red autumn city street" width="100%" />
-
-</td>
-</tr>
-</table>
-
-## My Toolkit
+**My Toolkit**
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,git,github,vscode&theme=dark" alt="Technologies and tools I use" />
 </div>
 
-## Find Me Elsewhere
+**Find Me Elsewhere**
 
 <div align="center">
 <a href="https://portfolio-silk-xi-44.vercel.app">
