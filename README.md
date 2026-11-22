@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Rainy%20Night%20Study%20Overlooking%20the%20City.png" alt="Hand-drawn rainy night study overlooking a gothic city" width="100%" />
+<img src="https://raw.githubusercontent.com/rohitcreates/rohitcreates/main/Rainy%20Night%20Study%20Overlooking%20the%20City.png" alt="Hand-drawn rainy night study overlooking a gothic city" width="100%" />
 
 <br/>
 
