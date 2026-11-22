@@ -4,30 +4,31 @@
 
 <br/>
 
-# Hi there! 👋 I'm
 # ROHIT
 
 *Building digital things by day, fictional universes by absolutely no reasonable schedule.*
 
 **Too many ideas. One keyboard. An unreasonable amount of ambition.**
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=rohitcreates&label=VISITORS&color=555555&style=flat" alt="Profile visitor counter" />
+
 </div>
 
 ---
-
-## A little about me ✦
 
 <table>
 <tr>
 <td width="56%" valign="middle">
 
-I'm Rohit, a dev who likes turning ideas into things that actually work. I enjoy figuring out how things fit together, solving problems, and occasionally discovering that a "quick little idea" has become a whole project.
+> "Somewhere between a good idea and seeing where it goes."
 
 - 💻 Building things for the web
-- ⚡ Working with JavaScript, React and Next.js
+- ⚡ JavaScript, React and Next.js
 - 🧠 Curious about how things work under the hood
 - 🇯🇵 Currently practising for **JLPT N4**
-- ☕ Usually powered by curiosity and too many open tabs
+- ☕ Too many ideas, not enough open tabs
 
 </td>
 <td width="44%" align="center" valign="middle">
