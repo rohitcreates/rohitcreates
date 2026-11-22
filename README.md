@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=rohitcreates&label=VISITORS&color=555555&style=flat" alt="Profile visitor counter" />
+<p align="right"><img src="https://komarev.com/ghpvc/?username=rohitcreates&label=WANDERERS%20WHO%20STOPPED%20BY&color=555555&style=flat" alt="Wanderers who stopped by" /></p>
 
 </div>
 
