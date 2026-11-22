@@ -33,17 +33,38 @@
 ## The tools in my corner
 
 <table>
-<tr><td><b>Programming Languages</b></td><td><img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts&theme=dark" /></td></tr>
-<tr><td><b>Frontend Development</b></td><td><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react&theme=dark" /></td></tr>
-<tr><td><b>Backend Development</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,python,django&theme=dark" /></td></tr>
-<tr><td><b>Database Technologies</b></td><td><img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,prisma&theme=dark" /></td></tr>
-<tr><td><b>Frameworks & Build Tools</b></td><td><img src="https://skillicons.dev/icons?i=nextjs,vite,react,django&theme=dark" /></td></tr>
-<tr><td><b>Cloud & Deployment</b></td><td><img src="https://skillicons.dev/icons?i=aws&theme=dark" /></td></tr>
-<tr><td><b>Hosting Platforms</b></td><td><img src="https://skillicons.dev/icons?i=github,vercel,netlify,render&theme=dark" /></td></tr>
-<tr><td><b>Developer Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,vscode,idea,sublime&theme=dark" /></td></tr>
-<tr><td><b>API & Debugging</b></td><td><img src="https://skillicons.dev/icons?i=postman,stackoverflow&theme=dark" /></td></tr>
-<tr><td><b>Collaboration</b></td><td><img src="https://skillicons.dev/icons?i=slack&theme=dark" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /></td></tr>
-<tr><td><b>Operating Systems</b></td><td><img src="https://skillicons.dev/icons?i=linux,windows&theme=dark" /></td></tr>
+<tr>
+<td><b>Programming Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=cpp,c,js,python,ts&theme=dark" alt="C++, C, JavaScript, Python and TypeScript" /></td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite&theme=dark" alt="HTML, CSS, React, Next.js, Tailwind CSS and Vite" /></td>
+</tr>
+<tr>
+<td><b>Backend & APIs</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=dark" alt="Node.js, Express and Django" /> <img src="https://img.shields.io/badge/REST%20APIs-555555?style=flat-square" alt="REST APIs" /> <img src="https://img.shields.io/badge/JWT-555555?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" /></td>
+</tr>
+<tr>
+<td><b>Databases & ORM</b></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma&theme=dark" alt="MongoDB, PostgreSQL and Prisma" /></td>
+</tr>
+<tr>
+<td><b>Authentication & Validation</b></td>
+<td><img src="https://img.shields.io/badge/NextAuth-242424?style=flat-square&logo=nextdotjs&logoColor=white" alt="NextAuth" /> <img src="https://img.shields.io/badge/Zod-3068B7?style=flat-square" alt="Zod" /> <img src="https://img.shields.io/badge/bcrypt-555555?style=flat-square" alt="bcrypt" /></td>
+</tr>
+<tr>
+<td><b>Developer Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and Visual Studio Code" /></td>
+</tr>
+<tr>
+<td><b>Deployment</b></td>
+<td><img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" /> <img src="https://img.shields.io/badge/Render-555555?style=flat-square&logo=render&logoColor=white" alt="Render" /></td>
+</tr>
+<tr>
+<td><b>External Services</b></td>
+<td><img src="https://img.shields.io/badge/TMDB-01B4E4?style=flat-square&logo=themoviedatabase&logoColor=white" alt="TMDB API" /> <img src="https://img.shields.io/badge/Resend-555555?style=flat-square" alt="Resend" /></td>
+</tr>
 </table>
 
 ## Find Me Elsewhere
@@ -52,7 +73,7 @@
 <a href="https://portfolio-silk-xi-44.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-242424?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-<a href="https://www.linkedin.com/in/rohit-singh/" >
+<a href="https://www.linkedin.com/in/rohit-singh/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </div>
