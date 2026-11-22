@@ -55,7 +55,7 @@
 </tr>
 <tr>
 <td><b>Developer Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and Visual Studio Code" /></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, Visual Studio Code and Postman" /></td>
 </tr>
 <tr>
 <td><b>Deployment</b></td>
