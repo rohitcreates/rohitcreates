@@ -30,20 +30,30 @@
 
 <br clear="right"/>
 
-**My Toolkit**
+## The tools in my corner
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,git,github,vscode&theme=dark" alt="Technologies and tools I use" />
-</div>
+<table>
+<tr><td><b>Programming Languages</b></td><td><img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts&theme=dark" /></td></tr>
+<tr><td><b>Frontend Development</b></td><td><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react&theme=dark" /></td></tr>
+<tr><td><b>Backend Development</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,python,django&theme=dark" /></td></tr>
+<tr><td><b>Database Technologies</b></td><td><img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,prisma&theme=dark" /></td></tr>
+<tr><td><b>Frameworks & Build Tools</b></td><td><img src="https://skillicons.dev/icons?i=nextjs,vite,react,django&theme=dark" /></td></tr>
+<tr><td><b>Cloud & Deployment</b></td><td><img src="https://skillicons.dev/icons?i=aws&theme=dark" /></td></tr>
+<tr><td><b>Hosting Platforms</b></td><td><img src="https://skillicons.dev/icons?i=github,vercel,netlify,render&theme=dark" /></td></tr>
+<tr><td><b>Developer Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,vscode,idea,sublime&theme=dark" /></td></tr>
+<tr><td><b>API & Debugging</b></td><td><img src="https://skillicons.dev/icons?i=postman,stackoverflow&theme=dark" /></td></tr>
+<tr><td><b>Collaboration</b></td><td><img src="https://skillicons.dev/icons?i=slack&theme=dark" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /></td></tr>
+<tr><td><b>Operating Systems</b></td><td><img src="https://skillicons.dev/icons?i=linux,windows&theme=dark" /></td></tr>
+</table>
 
-**Find Me Elsewhere**
+## Find Me Elsewhere
 
 <div align="center">
 <a href="https://portfolio-silk-xi-44.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-242424?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-<a href="https://github.com/rohitcreates">
-<img src="https://img.shields.io/badge/GitHub-242424?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://www.linkedin.com/in/rohit-singh/" >
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </div>
 
