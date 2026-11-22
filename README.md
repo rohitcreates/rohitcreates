@@ -5,7 +5,6 @@
 <br/>
 
 # Hi there! 👋 I'm
-
 # ROHIT
 
 *Building digital things by day, fictional universes by absolutely no reasonable schedule.*
@@ -16,16 +15,33 @@
 
 ---
 
-## About Me
+## A little about me ✦
 
-I'm a dev who likes making things, figuring out how they work, and occasionally making a simple idea much bigger than it needed to be.
+<table>
+<tr>
+<td width="56%" valign="middle">
 
-Usually somewhere between a new idea and the consequences of starting it.
+I'm Rohit, a dev who likes turning ideas into things that actually work. I enjoy figuring out how things fit together, solving problems, and occasionally discovering that a "quick little idea" has become a whole project.
+
+- 💻 Building things for the web
+- ⚡ Working with JavaScript, React and Next.js
+- 🧠 Curious about how things work under the hood
+- 🇯🇵 Currently practising for **JLPT N4**
+- ☕ Usually powered by curiosity and too many open tabs
+
+</td>
+<td width="44%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/rohitcreates/rohitcreates/main/profile-scene.gif" alt="Animated pixel-art red autumn city street" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ## My Toolkit
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,git,github,vscode&theme=dark" alt="My technology toolkit" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,git,github,vscode&theme=dark" alt="Technologies and tools I use" />
 </div>
 
 ## Find Me Elsewhere
@@ -34,6 +50,9 @@ Usually somewhere between a new idea and the consequences of starting it.
 <a href="https://portfolio-silk-xi-44.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-242424?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
+<a href="https://github.com/rohitcreates">
+<img src="https://img.shields.io/badge/GitHub-242424?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 </div>
 
-<div align="center"><sub>Thanks for stopping by. ✦</sub></div>
+<div align="center"><sub>Thanks for stopping by. Try not to open another tab. ✦</sub></div>
