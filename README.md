@@ -1,16 +1,44 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**rohitcreates/rohitcreates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I'm
 
-Here are some ideas to get you started:
+# ROHIT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Building digital things by day, fictional universes by absolutely no reasonable schedule.*
+
+**Too many ideas. One keyboard. An unreasonable amount of ambition.**
+
+</div>
+
+---
+
+## About Me
+
+I'm a dev who likes making things, figuring out how they work, and occasionally making a simple idea much bigger than it needed to be.
+
+Usually somewhere between a new idea and the consequences of starting it.
+
+## My Toolkit
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,git,github,vscode&theme=dark" alt="My technology toolkit" />
+</div>
+
+## GitHub Activity
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rohitcreates&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitcreates&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+<br/>
+<img src="https://streak-stats.demolab.com?user=rohitcreates&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+</div>
+
+## Find Me Elsewhere
+
+<div align="center">
+<a href="https://github.com/rohitcreates">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+</div>
+
+<div align="center"><sub>Thanks for stopping by. ✦</sub></div>
