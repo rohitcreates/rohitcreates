@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rohitcreates/rohitcreates/main/profile-banner.jpg" alt="Hand-drawn rainy night study overlooking a gothic city" width="100%" />
+<img src="https://raw.githubusercontent.com/rohitcreates/rohitcreates/main/profile-banner.gif" alt="Animated snowy pixel-art night scene with the greeting Hi there, I’m Rohit" width="100%" />
 
 <br/>
 
-# ROHIT
 
 *Building digital things by day, fictional universes by absolutely no reasonable schedule.*
 
